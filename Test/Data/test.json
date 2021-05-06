@@ -1,0 +1,12 @@
+{
+  "configs": [
+    {
+      "server": "t1",
+      "remarks_base64": "dGVzdDE="
+    },
+    {
+      "server": "t2",
+      "remarks_base64": "dGVzdDI="
+    }
+  ]
+}
